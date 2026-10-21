@@ -1,1 +1,27 @@
+<html>
+<head>
+  <meta charset="UTF-8>
+  <title> Ifpr </title>
+</head>
+<body>
+  <details>
+    <summary> Laboratorios de Mecanica </sumamary>
+    <p>é onde tem maquinas</p>
+  </details>
 
+  <details>
+    <summary> Laboratorios de informatica </sumamary>
+    <p></p>
+  </details>
+
+  <details>
+    <summary> Salas de aula </sumamary>
+      <details>
+      <sumary>Primeiro andar</sumary>
+        <p>oi</p>
+      <sumary>Segundo andar</sumary>
+        <p>oi</p>
+      <details>
+  </details>
+</body>
+</html>
